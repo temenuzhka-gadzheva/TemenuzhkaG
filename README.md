@@ -11,5 +11,5 @@
 
 
 
-[![Temenuzhka's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemenuzhkaG&show_icons=true&theme=tokyonight)](https://github.com/TemenuzhkaG/github-readme-stats)
+[![Temenuzhka's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemenuzhkaG&theme=tokyonight)](https://github.com/TemenuzhkaG/github-readme-stats)
 
