@@ -15,7 +15,7 @@
 
 
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemenuzhkaG&langs_count=6&theme=tokyonight&show_icon=true&hide_border=true" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemenuzhkaG&layout=compact&theme=tokyonight&show_icon=true&hide_border=true" />
 
 
 
