@@ -9,7 +9,13 @@
 - 📫 How to reach me, just write to: temenujka_211@abv.bg 📩
 - ⚡ Fun fact: I love to swim
 
-[![Temenuzhka's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemenuzhkaG&theme=tokyonight)](https://github.com/TemenuzhkaG/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 
 
