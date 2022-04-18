@@ -9,6 +9,10 @@
 - 📫 How to reach me, just write to: temenujka_211@abv.bg 📩
 - ⚡ Fun fact: I love to swim
 
-<img align="left" alt="Temenuzhka's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemenuzhkaG&theme=tokyonight&&layout=compact" />
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=TemenuzhkaG&theme=tokyonight&show_icon=true&hide_border=true" />
+
+
+<img align="left" alt="Temenuzhka's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemenuzhkaG&theme=tokyonight&langs_count=8&show_icon=true&hide_border=true"" />
+
+
