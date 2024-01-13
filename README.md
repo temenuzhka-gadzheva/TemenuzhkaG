@@ -1,6 +1,6 @@
 # Temenuzhka's Profile 👩‍💻
 
-Hello! 👋 I'm Temenuzhka, and I'm proud to be a part of the [Ulpia]([https://www.linkedin.com/company/company-name](https://www.linkedin.com/company/ulpia-tech/mycompany/))
+Hello! 👋 I'm Temenuzhka, and I'm proud to be a part of the [@Ulpia]([https://www.linkedin.com/company/company-name](https://www.linkedin.com/company/ulpia-tech/mycompany/))
  team as a professional software engineer 🚀. My skills and experience encompass a wide range of technologies, including React, JavaScript, Java, and Reltio.
 
 ## Education 🎓
