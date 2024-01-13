@@ -1,25 +1,19 @@
-### Hello 👋 I'm Temenuzhka 💻
+# Temenuzhka's Profile 👩‍💻
 
-   #### Student from Plovdiv, Bulgaria
+Hello! 👋 I'm Temenuzhka, and I'm proud to be a part of the [company name] team as a professional software engineer 🚀. My skills and experience encompass a wide range of technologies, including React, JavaScript, Java, and Reltio.
 
+## Education 🎓
+- Completed courses in Software Engineering at SoftUni, where I acquired knowledge and skills in software development.
+- Graduated with a degree in Software Engineering from the University of Plovdiv, providing a broader academic perspective on the field.
 
-- 🔭 I’m currently working on becoming a .Net Developer. That`s my dream work!
-- 🌱 I’m currently learning Software Engineering with C# in SoftUni and in University of Plovdiv
-- 🤔 I’m looking for help with C# language
-- 📫 How to reach me, just write to: temenujka_211@abv.bg 📩
-- ⚡ Fun fact: I love to swim
+## Knowledge Sharing 🤝
+- Delighted to be a part of the software engineering community, actively participating in the exchange of knowledge and experience.
+- Expertise in various technologies, including C#, enables me to offer assistance and guidance to those in need. Feel free to reach out if you have any questions or require advice on software development. I'm ready to share and assist. 😊
 
-<br>
-<br>
-<br>
+## Contact Information 📫
+- For inquiries, suggestions, or simply for friendly conversations, please don't hesitate to contact me at: [email] 📩.
 
-<img align="left" alt="Temenuzhka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TemenuzhkaG&theme=tokyonight&show_icon=true&hide_border=true" />
+## Fun Fact ⚡
+- During my free time, I find solace in swimming, which helps me relax and recharge for new challenges 🏊‍♀️.
 
-<br>
-<br>
-<br>
-
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemenuzhkaG&layout=compact&theme=tokyonight&show_icon=true&hide_border=true" />
-
-
-
+I hope this profile provides a clearer insight into my professional journey and interests. Feel free to reach out for any questions or advice you may need. 😊
