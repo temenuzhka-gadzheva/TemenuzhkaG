@@ -12,7 +12,7 @@ Hello! 👋 I'm Temenuzhka, and I'm proud to be a part of the [Ulpia](https://ul
 - Expertise in various technologies, including C#, enables me to offer assistance and guidance to those in need. Feel free to reach out if you have any questions or require advice on software development. I'm ready to share and assist. 😊
 
 ## Contact Information 📫
-- For inquiries, suggestions, or simply for friendly conversations, please don't hesitate to contact me at: [temenuzhka.gadzheva.official@gmail.com](temenuzhka.gadzheva.official@gmail.com) 📩.
+- For inquiries, suggestions, or simply for friendly conversations, please don't hesitate to contact me at: temenuzhka.gadzheva.official@gmail.com 📩.
 
 ## Fun Fact ⚡
 - During my free time, I find solace in swimming, which helps me relax and recharge for new challenges 🏊‍♀️.
